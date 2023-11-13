@@ -12,3 +12,6 @@ Estos cambios son generados para la practica del curso.
 1. Staged
 1. Commited
 1. Remote
+
+### Cambio luego de la licencia
+Este cambio se realizo luego de haber creado el archivo Licence en la interfaz web de _Github_.
